@@ -129,8 +129,18 @@ html,
     font-size: 1.4rem;
 }
 
+
 @media screen and (max-width : 650px){
     .login-form {
         width: 400px;
     }
+
+    .box input {
+        width: 300px;
+    }
+
+    .social-login i {
+        font-size: 2rem;
+    }
+   
 }
